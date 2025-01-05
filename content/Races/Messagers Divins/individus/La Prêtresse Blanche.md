@@ -17,4 +17,4 @@ La Prêtresse Blanche est enveloppée dans une grande tunique immaculée, dissim
 
 ## **Récits et légendes**
 
-![[Histoires/01 - Ère des Dieux/La Prêtresse Blanche|La Prêtresse Blanche]]
+![[la Légende de la Prêtresse Blanche|la Légende de la Prêtresse Blanche]]

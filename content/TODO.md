@@ -2,9 +2,8 @@
 draft: true
 ---
 
-dans la page de [[Histoires/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]] : 
+refaire la secte obscura pour raconter que c'est au moment ou x a trouvé le sanctuaire par hasard
 
-- un bouquin dans le chapitre 7 dont on pourrai raconter l'histoire
-- des chevaliers chapitre 3 et 4 que je pourrais utiliser dans une autre histoire
-- chapitre 10, raconter dans la vie de Thalion le moment ou il a reccueilli sélène
-- thalion et son apprenti
+
+
+rafeire la taverne OsMov, elle est créée dans les ruines du royaume de Lysandor

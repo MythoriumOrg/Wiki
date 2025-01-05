@@ -48,4 +48,4 @@ ___
 
 ## Histoire
 
-![[Histoires/06 - Ère de la Diversification/Lamys|Lamys]]
+![[old|old]]

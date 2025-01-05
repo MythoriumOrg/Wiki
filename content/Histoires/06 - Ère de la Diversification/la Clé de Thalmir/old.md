@@ -1,9 +1,8 @@
 ---
-draft: false
+draft: true
 tags:
 - Personnage
 - Histoire
-- EreDeLaDiversification
 ---
 
 Ce récit est celui de [[Races/Humains/Individus/Lamys|Lamys]]
