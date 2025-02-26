@@ -48,4 +48,4 @@ ___
 
 ## Histoire
 
-![[Histoires/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
+![[Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]

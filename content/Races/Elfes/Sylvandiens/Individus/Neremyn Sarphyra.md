@@ -53,4 +53,4 @@ ___
 
 ## Histoire
 
-![[Histoires/06 - Ère de la Diversification/Neremyn Sarphyra|Neremyn Sarphyra]]
+![[Histoires/Old/06 - Ère de la Diversification/Neremyn Sarphyra|Neremyn Sarphyra]]

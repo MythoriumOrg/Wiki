@@ -2,7 +2,7 @@
 draft: true
 ---
 
-dans la page de [[Histoires/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]] : 
+dans la page de [[Histoires/Old/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]] : 
 
 - un bouquin dans le chapitre 7 dont on pourrai raconter l'histoire
 - des chevaliers chapitre 3 et 4 que je pourrais utiliser dans une autre histoire
