@@ -43,9 +43,3 @@ Il est connu pour partir fréquemment en expéditions solitaires, explorant des 
 Lamys est une énigme incarnée, un guerrier d’élite dont la maîtrise martiale et la discipline stratégique n’ont d’égal que sa compassion pour les faibles. Il incarne parfaitement le crédo des **Sentinelles de Thalmyr**, masquant son identité pour mieux se dédier à la cause de son ordre.  
 
 Sa présence est à la fois majestueuse et oppressante : il est le chevalier silencieux qui veille dans l’ombre, l’épée levée pour protéger les innocents et faire respecter l’équilibre dicté par son dieu. Lamys laisse une impression indélébile sur tous ceux qu’il rencontre, une silhouette d’acier et de mystère qui reste gravée dans les mémoires bien après son départ.
-
-___
-
-## Histoire
-
-![[Histoires/Old/06 - Ère de la Diversification/Lamys|Lamys]]
