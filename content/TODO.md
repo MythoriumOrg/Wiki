@@ -1,6 +1,9 @@
 ---
 draft: true
 ---
+# Autres
+- [ ] ajouter une page de règles genre obligatoire des props avec nom, type, etc, des règles sur la présentation des pages, taille de titres, pour harmoniser tout ça
+---
 # Communautées
 ## [[Secte Obscura]]
 - [ ] ajouter type secte dans les properties
@@ -99,7 +102,12 @@ draft: true
 - [ ] mettre dans une catégorie a part
 ### [[Histoires/Old/03 - Ère des Elfes/Eliara Maewen|Eliara Maewen]] et [[Histoires/Old/03 - Ère des Elfes/Alenya Maewen|Alenya Maewen]]
 - [ ] faire leur histoire commune, virer ces deux pages la
-- [ ] avoir une page d
+- [ ] avoir une page de description d'histoire comme celles existantes
+- [ ] publier le bouquin dans Stories.myth
+- [ ] le type et sous type dans les props
+### [[Dorian et Elyndra]]
+- [ ] voir si je fait l'histoire ou si elle va se faire foutre, si je la fait faudra s'assurer de créer la fiche perso des deux personnages
+- [ ] le type et sous type dans les props
 ## [[Le Passage Oublié]]
 - [ ] mettre a jour les images
 - [ ] mettre l'image de la série dans une prop
@@ -107,6 +115,7 @@ draft: true
 - [ ] le type et sous type dans les props
 - [ ] mettre dates dans props
 - [ ] refaire la page
+- [ ] reprendre l'histoire et créer les fiches perso de chaque personnage présents dans l'histoire
 ## [[Les Sarphyra]]
 - [ ] mettre a jour les images
 - [ ] mettre l'image de la série dans une prop
@@ -114,6 +123,7 @@ draft: true
 - [ ] le type et sous type dans les props
 - [ ] mettre dates dans props
 - [ ] refaire la page
+- [ ] reprendre l'histoire et créer les fiches perso de chaque personnage et lieux présents dans l'histoire
 ## [[La Boutique Aux Simples]]
 - [ ] ajouter la page
 - [ ] mettre a jour les images
@@ -121,3 +131,107 @@ draft: true
 - [ ] mettre des properties
 - [ ] le type et sous type dans les props
 - [ ] mettre dates dans props
+- [ ] reprendre l'histoire et créer les fiches perso de chaque personnage et lieux présents dans l'histoire
+# Lieux
+## Royaumes
+### [[Kaldarhim]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Lysandor]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Lysendaris]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Nissaris]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Nysseris]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Sylvandis]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+### [[Thalis]]
+- [ ] faire un dossier, pas juste une seule page
+- [ ] ajouter des properties :
+	- [ ] nom
+	- [ ] date
+	- [ ] emplacement (lien map)
+	- [ ] image
+	- [ ] type = royaume
+	- [ ] population (nombre approximatif)
+	- [ ] population (races présentes en majorité)
+	- [ ] activité principale
+- [ ] ajouter une carte
+- [ ] faire une note par quartier
+## Sanctuaires Divins
+### Sanctuaires Trouvés
+#### [[Sanctuaire de Noctifer]]
+- [ ] ajouter des properties
+- [ ] faire un dossier complet avec une page par lieu, avec une image, et des props bien faites
+- [ ] faire une page de description globale
+### [[Sanctuaires Divins]]
+- [ ] ajouter des properties
+## [[Taverne OsMov]]
+- ajouter pro
