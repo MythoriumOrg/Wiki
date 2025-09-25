@@ -1,5 +1,5 @@
 ---
-first_name: set
+first_name: sdet
 last_name: set
-origine: Thalis
+origine: [[Lieux/Royaumes/Thalis|Thalis]]
 ---
