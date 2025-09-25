@@ -1,2 +1,0 @@
-[[Lieux/Royaumes/Nissaris]]"
----
