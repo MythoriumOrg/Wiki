@@ -1,74 +1,74 @@
-name: Deploy Quartz site to GitHub Pages
+# name: Deploy Quartz site to GitHub Pages
 
-on:
-  push:
-    branches:
-      - master
+# on:
+#   push:
+#     branches:
+#       - master
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+# concurrency:
+#   group: "pages"
+#   cancel-in-progress: false
 
-jobs:
-  build:
-    runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18.14
-      - name: Install Dependencies
-        run: npm ci
-      - name: Build Quartz
-        run: npx quartz build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: public
+# jobs:
+#   build:
+#     runs-on: ubuntu-22.04
+#     steps:
+#       - uses: actions/checkout@v3
+#         with:
+#           fetch-depth: 0 # Fetch all history for git info
+#       - uses: actions/setup-node@v3
+#         with:
+#           node-version: 18.14
+#       - name: Install Dependencies
+#         run: npm ci
+#       - name: Build Quartz
+#         run: npx quartz build
+#       - name: Upload artifact
+#         uses: actions/upload-pages-artifact@v2
+#         with:
+#           path: public
 
-  deploy_git_pages:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+#   deploy_git_pages:
+#     needs: build
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Deploy to GitHub Pages
+#         id: deployment
+#         uses: actions/deploy-pages@v2
 
-  deploy_vps:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.REMOTE_HOST }}
-          username: ${{ secrets.REMOTE_USER }}
-          password: ${{ secrets.REMOTE_PASSWORD }}
-          port: ${{ secrets.REMOTE_PORT }}
-          script: bash /scripts/deployMythorium.sh
+#   deploy_vps:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Deploy
+#         uses: appleboy/ssh-action@v1.0.3
+#         with:
+#           host: ${{ secrets.REMOTE_HOST }}
+#           username: ${{ secrets.REMOTE_USER }}
+#           password: ${{ secrets.REMOTE_PASSWORD }}
+#           port: ${{ secrets.REMOTE_PORT }}
+#           script: bash /scripts/deployMythorium.sh
 
-  discord:
-    needs: [deploy_git_pages, deploy_vps]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Get last commit message
-        id: last_commit
-        run: echo "::set-output name=message::$(git log -1 --pretty=format:%s)"
-      - name: Discord notification
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_USERNAME: Wiki update notifier
-        uses: Ilshidur/action-discord@master
-        with:
-          args: '@everyone nouvelle mise a jour : **${{ steps.last_commit.outputs.message }}**'
+#   discord:
+#     needs: [deploy_git_pages, deploy_vps]
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
+#       - name: Get last commit message
+#         id: last_commit
+#         run: echo "::set-output name=message::$(git log -1 --pretty=format:%s)"
+#       - name: Discord notification
+#         env:
+#           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+#           DISCORD_USERNAME: Wiki update notifier
+#         uses: Ilshidur/action-discord@master
+#         with:
+#           args: '@everyone nouvelle mise a jour : **${{ steps.last_commit.outputs.message }}**'
