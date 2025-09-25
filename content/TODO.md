@@ -105,6 +105,7 @@ draft: true
 - [ ] avoir une page de description d'histoire comme celles existantes
 - [ ] publier le bouquin dans Stories.myth
 - [ ] le type et sous type dans les props
+- [ ] penser a virer la guerrière des sylvandiens, c'est pas logique les sylvandiens se battent pas
 ### [[Dorian et Elyndra]]
 - [ ] voir si je fait l'histoire ou si elle va se faire foutre, si je la fait faudra s'assurer de créer la fiche perso des deux personnages
 - [ ] le type et sous type dans les props
@@ -234,4 +235,94 @@ draft: true
 ### [[Sanctuaires Divins]]
 - [ ] ajouter des properties
 ## [[Taverne OsMov]]
-- ajouter pro
+- [ ] ajouter props
+# Races
+## Divinités
+### Individus
+#### [[Aeltheris]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Amorae]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Eryndis]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Lyssira]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Noctifer]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Nyhalis]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Nyssara]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Thalior]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Thalmyr]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Vesyra]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Xaltheris]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+#### [[Xyron]]
+- [ ] Ajouter les properties : 
+	- [ ] type (personnage)
+	- [ ] sous type (divinité)
+	- [ ] raceElfe
+	- [ ] pouvoir(s)
+	- [ ] image
+### [[Divinités]]
+## Elfes, Féliniens, Humains, Messagers
+pareil pour chaque
