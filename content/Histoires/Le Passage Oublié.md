@@ -13,7 +13,7 @@ draft: true
 # Informations
 
 **personnages présents** :
-- [[Eryndel Faëllon]]
+- [[Eryndel Faëllon1]]
 - [[Sefare Lirondale]]
 - [[Maelis Vorell]]
 - [[Maelynn Tharoe]]

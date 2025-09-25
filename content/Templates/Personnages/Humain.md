@@ -1,11 +1,11 @@
 <%*
 // Dossiers
 const dossier_royaumes = "Lieux/Royaumes";
-const dossier_comunautees = "Lieux/Comunautées";
+const dossier_comunautees = "Comunautées";
 
 // Fichiers
 const fichiers_royaumes = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_royaumes + "/"));
-const fichiers_comunautees = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_royaumes + "/"));
+const fichiers_comunautees = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_comunautees + "/"));
 
 // Labels
 const labels_royaumes = fichiers_royaumes.map(f => f.basename);
@@ -23,8 +23,13 @@ const genre = await tp.system.suggester(labels_genres, labels_genres)
 const pronom = await tp.system.suggester(labels_pronoms, labels_pronoms)
 const comunaute = await tp.system.suggester(labels_comunautees, labels_comunautees)
 
+// Formatteur du nom de l'image
+const nom_immage
+
 // génération de la note
 tR = `---
+type: personnage
+sous_type: humain
 first_name: ${first_name}
 last_name: ${last_name}
 origine: "[[${origine}]]"
@@ -32,11 +37,20 @@ sexe: ${sexe}
 genre: ${genre}
 pronom: ${pronom}
 comunaute: "[[${comunaute}]]"
-image: 
+image: "[[personnage_humain_${first_name.toLowerCase()}${last_name}.jpg]]"
 ---`;
 
 // Actions sur la note
-// const titre = `${first_name} ${last_name}`;
-// await tp.file.rename(titre); 
-await tp.file.move(`Races/Humains/Individus/${titre}`)
+const titre = `${first_name} ${last_name}`;
+await tp.file.rename(titre); 
+// await tp.file.move(`Races/Humains/Individus/${titre}`)
+
+// Functions
+const slugify = s =>
+  (s ?? '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLocaleLowerCase('fr')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '');
 %>

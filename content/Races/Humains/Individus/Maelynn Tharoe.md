@@ -20,4 +20,4 @@ Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhi
 
 ## **Apparitions**
 
-Dans [[Le Passage Oublié]], Elle autorise la participation d’[[Eryndel Faëllon]] à certaines tâches.
+Dans [[Le Passage Oublié]], Elle autorise la participation d’[[Eryndel Faëllon1]] à certaines tâches.
