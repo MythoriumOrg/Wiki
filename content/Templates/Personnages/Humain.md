@@ -1,4 +1,13 @@
 <%*
+// Functions
+const slugify = s =>
+  (s ?? '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLocaleLowerCase('fr')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '');
+
 // Dossiers
 const dossier_royaumes = "Lieux/Royaumes";
 const dossier_comunautees = "Comunautées";
@@ -23,9 +32,6 @@ const genre = await tp.system.suggester(labels_genres, labels_genres)
 const pronom = await tp.system.suggester(labels_pronoms, labels_pronoms)
 const comunaute = await tp.system.suggester(labels_comunautees, labels_comunautees)
 
-// Formatteur du nom de l'image
-const nom_immage
-
 // génération de la note
 tR = `---
 type: personnage
@@ -37,20 +43,11 @@ sexe: ${sexe}
 genre: ${genre}
 pronom: ${pronom}
 comunaute: "[[${comunaute}]]"
-image: "[[personnage_humain_${first_name.toLowerCase()}${last_name}.jpg]]"
+image: "[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]"
 ---`;
 
 // Actions sur la note
 const titre = `${first_name} ${last_name}`;
 await tp.file.rename(titre); 
 // await tp.file.move(`Races/Humains/Individus/${titre}`)
-
-// Functions
-const slugify = s =>
-  (s ?? '')
-    .normalize('NFKD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .toLocaleLowerCase('fr')
-    .replace(/[^a-z0-9]+/g, '_')
-    .replace(/^_+|_+$/g, '');
 %>
