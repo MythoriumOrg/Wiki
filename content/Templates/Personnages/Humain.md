@@ -8,13 +8,10 @@ const fichiers_royaumes = app.vault.getMarkdownFiles().filter(f => f.path.starts
 // Labels
 const labels_royaumes = fichiers_royaumes.map(f => f.basename);
 
-// Valeurs
-const valeurs_royaumes = fichiers_royaumes.map(f => f.path.replace(/\.md$/,""));
-
 // Infos
 const first_name = await tp.system.prompt('Prénom du personnage');
 const last_name = await tp.system.prompt('Nom du personnage');
-const origine = await tp.system.suggester(labels_royaumes, valeurs_royaumes)
+const origine = await tp.system.suggester(labels_royaumes, labels_royaumes)
 
 // génération de la note
 tR = `---
