@@ -32,5 +32,11 @@ sexe: ${sexe}
 genre: ${genre}
 pronom: ${pronom}
 comunaute: "[[${comunaute}]]"
+image: 
 ---`;
+
+// Actions sur la note
+// const titre = `${first_name} ${last_name}`;
+// await tp.file.rename(titre); 
+await tp.file.move(`Races/Humains/Individus/${titre}`)
 %>
