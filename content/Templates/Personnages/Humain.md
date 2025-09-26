@@ -35,6 +35,7 @@ const image = `[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify
 
 // génération de la note
 tR = `---
+draft: false
 type: personnage
 sous_type: humain
 first_name: ${first_name}
@@ -55,3 +56,35 @@ const titre = `${first_name} ${last_name}`;
 // await tp.file.rename(titre); 
 // await tp.file.move(`Races/Humains/Individus/${titre}`)
 %>
+
+## Image
+![[personnage_humain_gimmov.jpg]]
+
+---
+
+## Description physique
+
+
+
+---
+
+## Personnalité
+
+
+
+---
+
+## Rôle et vocation
+
+
+
+---
+
+## Habitat et mode de vie
+
+
+
+---
+
+## Portrait
+
