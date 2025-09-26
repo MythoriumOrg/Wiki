@@ -6,7 +6,7 @@ tags:
 - EreDeLaDiversification
 ---
 
-Ce récit est celui de [[Races/Humains/Individus/Lamys|Lamys]]
+Ce récit est celui de [[temp/Lamys|Lamys]]
 
 # Chapitre 1 (intro) : *Bribes de souvenirs*
 

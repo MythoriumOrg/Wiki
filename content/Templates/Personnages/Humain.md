@@ -1,4 +1,8 @@
 <%*
+// Déclaration de variables
+let formatted_origine;
+let formatted_comunaute;
+
 // Functions
 const slugify = s =>
   (s ?? '')
@@ -26,12 +30,25 @@ const labels_comunautees = fichiers_comunautees.map(f => f.basename);
 // Infos
 const first_name = await tp.system.prompt('Prénom du personnage');
 const last_name = await tp.system.prompt('Nom du personnage');
-const origine = await tp.system.suggester(labels_royaumes, labels_royaumes)
 const sexe = await tp.system.suggester(labels_sexes, labels_sexes)
 const genre = await tp.system.suggester(labels_genres, labels_genres)
 const pronom = await tp.system.suggester(labels_pronoms, labels_pronoms)
+const origine = await tp.system.suggester(labels_royaumes, labels_royaumes)
 const comunaute = await tp.system.suggester(labels_comunautees, labels_comunautees)
 const image = `[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]`
+
+// Formatteurs
+if (origine){
+	formatted_origine = `\norigine: "[[${origine}]]"`
+} else {
+	formatted_origine = ""
+}
+
+if (comunaute){
+	formatted_comunaute = `\ncomunaute: "[[${comunaute}]]"`
+} else {
+	formatted_comunaute = ""
+}
 
 // génération de la note
 tR = `---
@@ -40,11 +57,11 @@ type: personnage
 sous_type: humain
 first_name: ${first_name}
 last_name: ${last_name}
-origine: "[[${origine}]]"
 sexe: ${sexe}
 genre: ${genre}
 pronom: ${pronom}
-comunaute: "[[${comunaute}]]"
+${formatted_origine}
+${formatted_comunaute}
 image: "${image}"
 ---
 
@@ -53,12 +70,9 @@ image: "${image}"
 
 // Actions sur la note
 const titre = `${first_name} ${last_name}`;
-// await tp.file.rename(titre); 
-// await tp.file.move(`Races/Humains/Individus/${titre}`)
+await tp.file.rename(titre); 
+await tp.file.move(`Races/Humains/Individus/${titre}`)
 %>
-
-## Image
-![[personnage_humain_gimmov.jpg]]
 
 ---
 
