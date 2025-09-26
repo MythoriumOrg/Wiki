@@ -7,8 +7,6 @@ last_name: Oforest
 sexe: Homme
 genre: Homme
 pronom: Il
-
-
 comunaute: "[[Sentinelles de Thalmyr]]"
 image: "[[personnage_humain_lamysoforest.jpg]]"
 ---
