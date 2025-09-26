@@ -34,7 +34,7 @@ Sa passion pour la cuisine le pousse à expérimenter constamment, cherchant tou
 ---
 
 ## Rôle et vocation
-[[TODO]] : refaire avec un paragraphe
+
 1. **Tavernier dévoué :** Gim dirige [[Taverne OsMov]], une taverne solitaire nichée au bord d’une forêt, loin des tumultes des royaumes. Il y brasse sa propre bière et prépare des repas qui ont la réputation d’être parmi les meilleurs que l’on puisse trouver.
 2. **Cuisinier passionné :** Chaque jour, il élabore une recette unique, inspirée de ses explorations et de ses trouvailles dans la nature environnante.
 3. **Bienfaiteur discret :** Gim offre nourriture et refuge aux voyageurs et aux démunis, refusant rarement son aide à ceux qui en ont besoin.

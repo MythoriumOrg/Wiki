@@ -30,7 +30,7 @@ Elle est aussi curieuse et aventurière, n’hésitant pas à explorer de nouvel
 ---
 
 ## Rôle et vocation
-[[TODO]] - refaire avec paragraphes
+
 1. **Cueilleuse experte :** Lagertha parcourt les forêts environnantes pour récolter des plantes, des fleurs, et des herbes qu’elle utilise pour décorer la taverne ou pour offrir aux visiteurs.
 2. **Fleuriste dévouée :** Ses créations florales ornent les tables de **[[OsMov]]**, apportant une touche de vie et de couleur au lieu.
 3. **Soutien moral :** Grâce à son écoute et à sa douceur, Lagertha est souvent celle vers qui les clients se tournent lorsqu’ils ont besoin de réconfort.

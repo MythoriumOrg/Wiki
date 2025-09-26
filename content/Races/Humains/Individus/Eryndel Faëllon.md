@@ -33,7 +33,7 @@ Elle est profondément loyale et protectrice envers ceux qu’elle aime, n’hé
 ---
 
 ## Rôle et vocation
-[[TODO]] : refaire avec un paragraphe
+
 1. **Expertise minière :** Eryndel a une connaissance approfondie des réseaux souterrains et des minerais précieux, ce qui la rend indispensable pour explorer les zones les plus dangereuses de Kaldarhim.
 2. **Chant ancestral :** Elle possède une voix cristalline et maîtrise les chants anciens qui, selon la légende, ont le pouvoir de calmer les esprits ou de révéler des chemins cachés.
 3. **Combat agile :** Bien qu’elle préfère éviter la violence, Eryndel est habile avec une dague ou un arc léger, utilisant son agilité pour esquiver et surprendre ses adversaires.
@@ -42,7 +42,7 @@ Elle est profondément loyale et protectrice envers ceux qu’elle aime, n’hé
 
 ## Habitat et mode de vie
 
-[[TODO]]
+
 
 ---
 

@@ -48,7 +48,7 @@ Il est connu pour partir fréquemment en expéditions solitaires, explorant des 
 
 ## Habitat et mode de vie
 
-[[TODO]] - ajouter cette partie, il a pas vraiment d'habitat, il est nomade en focntion des ordres des sentinelles, 
+
 
 ---
 

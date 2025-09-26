@@ -14,9 +14,9 @@ draft: true
 
 **personnages présents** :
 - [[Eryndel Faëllon1]]
-- [[Sefare Lirondale]]
-- [[Maelis Vorell]]
-- [[Maelynn Tharoe]]
+- [[temp/Sefare Lirondale]]
+- [[temp/Maelis Vorell]]
+- [[temp/Maelynn Tharoe]]
 - [[temp/Kaelen Vareth]]
 
 **Lieux** : 

@@ -324,5 +324,33 @@ draft: true
 	- [ ] pouvoir(s)
 	- [ ] image
 ### [[Divinités]]
-## Elfes, Féliniens, Humains, Messagers
+## Humains
+### [[Eryndel Faëllon]]
+- [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+- [ ] faire la partie habitat et mode de vie
+### [[Gim Mov]]
+- [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+### [[Kaelen Vareth]]
+- [ ] faire une image
+- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) : 
+```
+Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte du passage ancien a été faite. Il représente l’élite chargée de la découverte et de l’expansion souterraine.
+```
+### [[Lagertha Osmond]]
+- [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+### [[Lamys Oforest]]
+- [ ] Ajouter la partie habitat et mode de vie,  il a pas vraiment d'habitat, il est nomade en focntion des ordres des sentinelles, même s'il passe le plus clair de son temps en mission, il est de temps en temps dans l'antre des sentinelles
+### [[Maelis Vorell]]
+- [ ] faire une image
+- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
+```
+Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours sous les ordres de [[temp/Kaelen Vareth]] lors de ses missions à l’extérieur des grottes, étant une exploratrice réputée. en collocation avec sefare
+```
+### [[Maelynn Tharoe]]
+- [ ] faire une image
+- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
+```
+Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhim]].
+```
+## Elfes, Féliniens, Messagers
 pareil pour chaque

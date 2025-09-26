@@ -2,17 +2,20 @@
 draft: false
 type: personnage
 sous_type: humain
-first_name: Kaelen
-last_name: Vareth
+first_name: Maelis
+last_name: Vorell
 sexe: Femme
 genre: Femme
 pronom: Elle
+
 origine: "[[Kaldarhim]]"
-image: "[[personnage_humain_kaelenvareth.jpg]]"
+
+image: "[[personnage_humain_maelisvorell.jpg]]"
 ---
 
 ## Image
-![[personnage_humain_kaelenvareth.jpg]]
+
+![[personnage_humain_maelisvorell.jpg]]
 
 ---
 
