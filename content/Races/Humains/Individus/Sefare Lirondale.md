@@ -35,7 +35,7 @@ Il peut passer d’un bavard intarissable à un silence presque méditatif, en f
 ---
 
 ## Rôle et vocation
-[[TODO]] - refaire ça avec des vrais paragraphes
+
 1. **Adaptation aux grottes :** Sefare est habitué à naviguer dans les sombres et complexes labyrinthes de Kaldarhim, avec une excellente orientation et une agilité remarquable.
 2. **Créativité artisanale :** Doté d’une grande imagination, il excelle dans la fabrication d’objets ou de solutions ingénieuses à partir de ressources locales.
 3. **Volonté indomptable :** Sa détermination inspire ceux qui l’entourent, même dans les moments les plus sombres.
@@ -44,7 +44,7 @@ Il peut passer d’un bavard intarissable à un silence presque méditatif, en f
 
 ## Habitat et mode de vie
 
-[[TODO]] - faire cette partie
+
 
 ---
 

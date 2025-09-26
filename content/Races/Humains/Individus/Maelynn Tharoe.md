@@ -14,13 +14,9 @@ image: "[[personnage_humain_maelynntharoe.jpg]]"
 ---
 
 ## Image
-[[TODO]] - ajouter l'image
+
 ![[personnage_humain_maelynntharoe.jpg]]
 
-[[TODO]] - faire le reste de la note
-```
-Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhim]].
-```
 ---
 
 ## Description physique

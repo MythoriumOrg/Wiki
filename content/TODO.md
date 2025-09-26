@@ -328,8 +328,10 @@ draft: true
 ### [[Eryndel Faëllon]]
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
 - [ ] faire la partie habitat et mode de vie
+- [ ] liens internes
 ### [[Gim Mov]]
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+- [ ] liens internes
 ### [[Kaelen Vareth]]
 - [ ] faire une image
 - [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) : 
@@ -338,8 +340,10 @@ Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte d
 ```
 ### [[Lagertha Osmond]]
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+- [ ] liens internes
 ### [[Lamys Oforest]]
 - [ ] Ajouter la partie habitat et mode de vie,  il a pas vraiment d'habitat, il est nomade en focntion des ordres des sentinelles, même s'il passe le plus clair de son temps en mission, il est de temps en temps dans l'antre des sentinelles
+- [ ] liens internes
 ### [[Maelis Vorell]]
 - [ ] faire une image
 - [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
@@ -352,5 +356,13 @@ Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours 
 ```
 Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhim]].
 ```
-## Elfes, Féliniens, Messagers
-pareil pour chaque
+### [[Sefare Lirondale]]
+- [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
+- [ ] faire la partie habitat et mode de vie
+- [ ] liens internes
+## Elfes
+- [ ] faire le template
+## Féliniens
+- [ ] faire le template
+## Messagers
+- [ ] faire le template
