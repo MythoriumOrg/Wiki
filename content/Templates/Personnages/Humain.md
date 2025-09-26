@@ -31,6 +31,7 @@ const sexe = await tp.system.suggester(labels_sexes, labels_sexes)
 const genre = await tp.system.suggester(labels_genres, labels_genres)
 const pronom = await tp.system.suggester(labels_pronoms, labels_pronoms)
 const comunaute = await tp.system.suggester(labels_comunautees, labels_comunautees)
+const image = `[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]`
 
 // génération de la note
 tR = `---
@@ -43,11 +44,14 @@ sexe: ${sexe}
 genre: ${genre}
 pronom: ${pronom}
 comunaute: "[[${comunaute}]]"
-image: "[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]"
----`;
+image: "${image}"
+---
+
+## Image
+!${image}`;
 
 // Actions sur la note
 const titre = `${first_name} ${last_name}`;
-await tp.file.rename(titre); 
+// await tp.file.rename(titre); 
 // await tp.file.move(`Races/Humains/Individus/${titre}`)
 %>
