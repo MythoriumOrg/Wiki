@@ -4,11 +4,9 @@ type: personnage
 sous_type: humain
 first_name: Gim
 last_name: Mov
-origine: "[[null]]"
 sexe: Homme
 genre: Homme
 pronom: Il
-comunaute: "[[null]]"
 image: "[[personnage_humain_gimmov.jpg]]"
 ---
 
@@ -36,8 +34,8 @@ Sa passion pour la cuisine le pousse à expérimenter constamment, cherchant tou
 ---
 
 ## Rôle et vocation
-
-1. **Tavernier dévoué :** Gim dirige [[Taverne OsMov|OsMov]], une taverne solitaire nichée au bord d’une forêt, loin des tumultes des royaumes. Il y brasse sa propre bière et prépare des repas qui ont la réputation d’être parmi les meilleurs que l’on puisse trouver.
+[[TODO]] : refaire avec un paragraphe
+1. **Tavernier dévoué :** Gim dirige [[Taverne OsMov]], une taverne solitaire nichée au bord d’une forêt, loin des tumultes des royaumes. Il y brasse sa propre bière et prépare des repas qui ont la réputation d’être parmi les meilleurs que l’on puisse trouver.
 2. **Cuisinier passionné :** Chaque jour, il élabore une recette unique, inspirée de ses explorations et de ses trouvailles dans la nature environnante.
 3. **Bienfaiteur discret :** Gim offre nourriture et refuge aux voyageurs et aux démunis, refusant rarement son aide à ceux qui en ont besoin.
 
@@ -45,7 +43,7 @@ Sa passion pour la cuisine le pousse à expérimenter constamment, cherchant tou
 
 ## Habitat et mode de vie
 
-La taverne [[Taverne OsMov|OsMov]], située en lisière d’une forêt dense et mystique, est une structure accueillante construite en bois et en pierre, avec un toit de chaume et une grande cheminée qui réchauffe l’intérieur. Les tables en bois massif sont éclairées par des lanternes suspendues, créant une ambiance chaleureuse et intime.
+La taverne [[Taverne OsMov]], située en lisière d’une forêt dense et mystique, est une structure accueillante construite en bois et en pierre, avec un toit de chaume et une grande cheminée qui réchauffe l’intérieur. Les tables en bois massif sont éclairées par des lanternes suspendues, créant une ambiance chaleureuse et intime.
 
 À l’aube, Gim s’éloigne souvent de la taverne pour explorer les environs, ramassant des champignons, des herbes rares, et d’autres trésors de la forêt. Les après-midis et soirées, il accueille ses clients avec une énergie inépuisable, écoutant leurs histoires tout en servant des plats et des boissons.
 
@@ -53,4 +51,4 @@ La taverne [[Taverne OsMov|OsMov]], située en lisière d’une forêt dense et 
 
 ## Portrait
 
-Gim Mov est bien plus qu’un simple tavernier : il est un pilier de bonté dans un monde souvent rude. Avec son rire contagieux, ses plats délicieux, et [[Taverne OsMov|OsMov]], sa taverne chaleureuse nommée en hommage à son union avec [[Lagertha Osmond]], il incarne la simplicité et la profondeur de l’hospitalité. Pour les voyageurs égarés ou les âmes fatiguées, il est une lumière dans l’obscurité, offrant un foyer où chacun est accueilli comme un ami.
+Gim Mov est bien plus qu’un simple tavernier : il est un pilier de bonté dans un monde souvent rude. Avec son rire contagieux, ses plats délicieux, et [[Taverne OsMov]], sa taverne chaleureuse nommée en hommage à son union avec [[Lagertha Osmond]], il incarne la simplicité et la profondeur de l’hospitalité. Pour les voyageurs égarés ou les âmes fatiguées, il est une lumière dans l’obscurité, offrant un foyer où chacun est accueilli comme un ami.

@@ -18,7 +18,7 @@ La **Taverne OsMov**, un mélange unique de tradition et de convivialité, est u
 
 ### **Extérieur**
 
-La taverne OsMov est une bâtisse robuste à deux étages, construite en pierre grise et en bois de chêne massif. Son toit incliné est couvert de tuiles sombres, et des fleurs sauvages décorent les rebords des fenêtres. Une enseigne suspendue, gravée avec soin, porte fièrement le nom **"OsMov"** accompagné d’un symbole représentant une chope de bière et une fleur, symboles des deux âmes du lieu, **[[Gim Mov]]** et **[[Lagertha Osmond]]**.
+La taverne OsMov est une bâtisse robuste à deux étages, construite en pierre grise et en bois de chêne massif. Son toit incliné est couvert de tuiles sombres, et des fleurs sauvages décorent les rebords des fenêtres. Une enseigne suspendue, gravée avec soin, porte fièrement le nom **"OsMov"** accompagné d’un symbole représentant une chope de bière et une fleur, symboles des deux âmes du lieu, **[[temp/Gim Mov]]** et **[[temp/Lagertha Osmond]]**.
 
 Une petite cour pavée entoure l’entrée, bordée de bancs en bois et de lanternes qui s’illuminent à la tombée de la nuit. À l’arrière, un petit jardin potager et une herboristerie témoignent de l’attention portée à la cuisine maison et aux plantes médicinales.
 

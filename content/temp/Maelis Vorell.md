@@ -16,7 +16,7 @@ tags:
 
 ## **Description**
 
-Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours sous les ordres de [[Kaelen Vareth]] lors de ses missions à l’extérieur des grottes, étant une exploratrice réputée.
+Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours sous les ordres de [[temp/Kaelen Vareth]] lors de ses missions à l’extérieur des grottes, étant une exploratrice réputée.
 
 ## **Apparitions**
 
