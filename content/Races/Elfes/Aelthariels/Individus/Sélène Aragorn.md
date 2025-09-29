@@ -9,8 +9,6 @@ tags:
 
 ![[personnage_sylvandienne_seleneAragorn.jpg]]
 
-Voici la fiche mise à jour pour **Sélène Aragorn** :
-
 ---
 
 ## **Informations générales**
