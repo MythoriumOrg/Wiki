@@ -364,7 +364,7 @@ Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhi
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
 - [ ] faire la partie habitat et mode de vie
 - [ ] liens internes
-- [ ] refaire l'image
+- [x] refaire l'image
 ## Elfes
 - [ ] faire le template
 ## Féliniens
