@@ -335,8 +335,8 @@ draft: true
 - [ ] liens internes
 - [x] refaire l'image
 ### [[Kaelen Vareth]]
-- [ ] faire une image
-- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) : 
+- [x] faire une image
+- [x] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) : 
 ```
 Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte du passage ancien a été faite. Il représente l’élite chargée de la découverte et de l’expansion souterraine.
 ```
@@ -355,8 +355,8 @@ Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte d
 Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours sous les ordres de [[temp/Kaelen Vareth]] lors de ses missions à l’extérieur des grottes, étant une exploratrice réputée. en collocation avec sefare
 ```
 ### [[Maelynn Tharoe]]
-- [ ] faire une image
-- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
+- [x] faire une image
+- [x] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
 ```
 Dirigeante de la section où travaillent les nettoyeurs du royaume de [[Kaldarhim]].
 ```
