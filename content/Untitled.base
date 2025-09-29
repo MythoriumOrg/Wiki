@@ -5,3 +5,4 @@ views:
       and:
         - type == "personnage"
     image: note.image
+    cardSize: 340

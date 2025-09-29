@@ -349,8 +349,8 @@ Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte d
 - [ ] liens internes
 - [x] refaire l'image
 ### [[Maelis Vorell]]
-- [ ] faire une image
-- [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
+- [x] faire une image
+- [x] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
 ```
 Chasseuse expérimentée. Pragmatique et protectrice, elle est presque toujours sous les ordres de [[temp/Kaelen Vareth]] lors de ses missions à l’extérieur des grottes, étant une exploratrice réputée. en collocation avec sefare
 ```
