@@ -329,7 +329,7 @@ draft: true
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
 - [ ] faire la partie habitat et mode de vie
 - [ ] liens internes
-- [ ] refaire l'image
+- [x] refaire l'image
 ### [[Gim Mov]]
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
 - [ ] liens internes
@@ -343,11 +343,11 @@ Chef des explorateurs de Kaldarhim. C’est sous ses ordres que la découverte d
 ### [[Lagertha Osmond]]
 - [ ] refaire rôle et vocations avec un ou plusieurs paragraphes
 - [ ] liens internes
-- [ ] refaire l'image
+- [x] refaire l'image
 ### [[Lamys Oforest]]
 - [ ] Ajouter la partie habitat et mode de vie,  il a pas vraiment d'habitat, il est nomade en focntion des ordres des sentinelles, même s'il passe le plus clair de son temps en mission, il est de temps en temps dans l'antre des sentinelles
 - [ ] liens internes
-- [ ] refaire l'image
+- [x] refaire l'image
 ### [[Maelis Vorell]]
 - [ ] faire une image
 - [ ] faire la fiche complète avec le petit paragraphe (pas obligé de tout tout détailler, juste mettre les bonnes infos) :
