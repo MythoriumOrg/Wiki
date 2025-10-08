@@ -20,6 +20,10 @@ const dossier_comunautees = "Comunautées";
 const fichiers_royaumes = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_royaumes + "/"));
 const fichiers_comunautees = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_comunautees + "/"));
 
+// définition de la race
+const races = ["Humain.e", "Elfe", "Félinien]
+const race = await tp.system.suggester()
+
 // Labels
 const labels_royaumes = fichiers_royaumes.map(f => f.basename);
 const labels_sexes = ["Femme", "Homme", "Inter"]
