@@ -1,9 +1,14 @@
 ---
 draft: false
-tags:
-- Personnage
-- Sylvandiens
-- EreDeLaDiversification
+type: personnage
+sous_type: humain
+first_name: Eryndel
+last_name: Faëllon
+sexe: Femme
+genre: Femme
+pronom: Elle
+origine: "[[Kaldarhim]]"
+image: "[[personnage_humain_eryndelfaellon.jpg]]"
 ---
 
 ## **Image**
