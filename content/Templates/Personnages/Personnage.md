@@ -2,6 +2,9 @@
 // Déclaration de variables
 let formatted_origine;
 let formatted_comunaute;
+let labels_sexes;
+let labels_genres;
+let labels_pronoms;
 
 // Functions
 const slugify = s =>
@@ -21,14 +24,17 @@ const fichiers_royaumes = app.vault.getMarkdownFiles().filter(f => f.path.starts
 const fichiers_comunautees = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(dossier_comunautees + "/"));
 
 // définition de la race
-const races = ["Humain.e", "Elfe", "Félinien]
-const race = await tp.system.suggester()
+const races = ["humain", "elfe", "felinien"]
+const race = await tp.system.suggester(races, races)
+
+if (race == "Humain" || race == "Elfe" || race == "Felinien"){
+	labels_sexes = ["Femme", "Homme", "Inter"]
+	labels_genres = ["Femme", "Homme", "Fluide", "Inter", "Non binaire", "Non défini"]
+	labels_pronoms = ["Elle", "Il", "Iel"]
+}
 
 // Labels
 const labels_royaumes = fichiers_royaumes.map(f => f.basename);
-const labels_sexes = ["Femme", "Homme", "Inter"]
-const labels_genres = ["Femme", "Homme", "Fluide", "Inter", "Non binaire", "Non défini"]
-const labels_pronoms = ["Elle", "Il", "Iel"]
 const labels_comunautees = fichiers_comunautees.map(f => f.basename);
 
 // Infos
@@ -39,7 +45,7 @@ const genre = await tp.system.suggester(labels_genres, labels_genres)
 const pronom = await tp.system.suggester(labels_pronoms, labels_pronoms)
 const origine = await tp.system.suggester(labels_royaumes, labels_royaumes)
 const comunaute = await tp.system.suggester(labels_comunautees, labels_comunautees)
-const image = `[[personnage_humain_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]`
+const image = `[[personnage_${race}_${slugify(first_name).toLowerCase()}${slugify(last_name)}.jpg]]`
 
 // Formatteurs
 if (origine){
@@ -63,9 +69,7 @@ first_name: ${first_name}
 last_name: ${last_name}
 sexe: ${sexe}
 genre: ${genre}
-pronom: ${pronom}
-${formatted_origine}
-${formatted_comunaute}
+pronom: ${pronom}${formatted_origine}${formatted_comunaute}
 image: "${image}"
 ---
 
