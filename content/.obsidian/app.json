@@ -3,5 +3,5 @@
   "livePreview": false,
   "promptDelete": false,
   "spellcheck": false,
-  "readableLineLength": false
+  "readableLineLength": true
 }
