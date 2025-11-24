@@ -390,3 +390,198 @@ Ce n’est que bien plus tard, des années plus tard, quand il porterait un casq
 
 Mais pour l’instant, il n’était qu’un gamin dans des ruines gelées.  
 Un gamin qui ne savait pas encore que son visage, un jour, importerait au point de devoir disparaître.
+
+# Chapitre 2 — La Promesse Sacrée
+
+Le matin s’était levé sans couleur.
+
+Une brume opaque rampait entre les arbres morts, avalant les silhouettes, effaçant la ligne de l’horizon. Le vent glissait sur les pierres comme une prière oubliée. Le garçon avançait derrière l’Ancien, ses pas minuscules disparaissant dans l’empreinte des bottes du vieil homme.
+
+Aujourd’hui, ils marchaient plus loin que d’habitude. Plus profondément dans les ruines. Vers un endroit que l’Ancien ne lui avait jamais montré.
+
+Il n’aimait pas ça.  
+La forêt non plus.
+
+Chaque tronc semblait ployer sous le poids d’un souvenir qu’elle refusait de dire.
+
+— Garde le rythme, dit l’Ancien sans se retourner.
+
+Le garçon accéléra, même si ses jambes protestaient.
+
+Ils traversèrent une arche de pierre effondrée, où des racines avaient poussé comme des doigts osseux. Derrière, un sentier étroit serpentait vers la vallée. La neige y tenait à peine, fondue par des veines de chaleur que le garçon ne comprenait pas.
+
+La vallée n’était qu’un long tunnel de roches fendues. Au loin, l’écho d’un ruissellement. L’Ancien se dirigeait vers ce son.
+
+Un ruisseau apparaissait enfin, brillant comme une veine de verre sous la lumière blanche. L’eau coulait claire, trop claire pour ces terres mortes.
+
+Le garçon s’accroupit, attiré par l’onde. Il trempa ses doigts : l’eau était glacée, mais pure. Ça le surprit.
+
+L’Ancien gronda :
+
+— Ne bois pas.
+
+Le garçon retira précipitamment sa main.
+
+— Pourquoi ? demanda-t-il.
+
+— Parce que certaines eaux oublient ce qu’elles contiennent. Et d’autres… se souviennent trop bien de ceux qui les touchent.
+
+Il n’expliqua pas. Il n’expliquait jamais.
+
+Ils longèrent le ruisseau jusqu’à un renfoncement sombre dans la falaise. Une ouverture naturelle, béante, comme la gueule d’un animal pétrifié.
+
+Le garçon sentit son ventre se nouer.
+
+L’Ancien s’arrêta devant l’entrée.
+
+— Nous sommes arrivés.
+
+Il posa une main sur la roche, les doigts glissant sur des rainures anciennes.
+
+— C’est ici que tout commence, dit-il.
+
+Le garçon cligna des yeux, incertain.
+
+— C’est ici que j’ai juré, reprit l’Ancien. Et que d’autres avant moi ont juré aussi.
+
+Il tourna enfin son visage buriné vers le garçon.
+
+— Aujourd’hui, toi aussi, tu vas faire un vœu.
+
+Le garçon sentit la panique remonter dans sa gorge.
+
+— Un… vœu ? Je… je ne sais pas quoi dire.
+
+— Un vœu n’est pas une phrase. C’est un poids qu’on accepte. Un poids qu’on porte ensuite jusqu’à la fin de sa vie. Ce que tu vas jurer n’a pas besoin d’être compris. Il a besoin d’être tenu.
+
+Le garçon recula d’un pas.
+
+— Je… je n’y suis pas prêt.
+
+L’Ancien s’approcha. Ses yeux de fer s’adoucirent — à peine, mais c’était là.
+
+— Personne n’est prêt, la première fois. Mais l’occasion ne reviendra pas. Et tu dois choisir avant que le monde ne le fasse pour toi.
+
+Il posa une main massive sur son épaule.
+
+— Tu n’es pas un enfant perdu parmi les ruines. Pas seulement. Tu es quelqu’un pour qui le monde retiendra son souffle. Je l’ai senti la première fois que je t’ai vu.
+
+Le garçon fixa le sol, incapable de parler.  
+Il ne croyait pas être quelqu’un.  
+Il ne croyait pas être quelque chose.
+
+Ils pénétrèrent dans la grotte.
+
+L’air y changea immédiatement : lourd, chargé d’humidité et de poussière ancienne. La pénombre y était dense comme un voile. L’Ancien alluma une torche. Une lueur rougeâtre se refléta sur les stalactites.
+
+Ils descendirent un escalier naturel, rocheux et usé. En bas, une salle s’ouvrait. Parfaite. Circulaire. Des murs polis, gravés de symboles étranges. Au centre, un bassin d’eau noire, immobile, comme un miroir obscur.
+
+Le garçon n’osa pas avancer.
+
+— Entre, dit l’Ancien.
+
+Le garçon fit quelques pas, les yeux fixés sur le bassin. Quelque chose y brillait faiblement. Comme un éclat de lune piégé au fond.
+
+L’Ancien posa sa torche dans un creux de pierre. L’ombre se fit vivante, oscillante.
+
+— Écoute.  
+Il frappa le sol avec son bâton.
+
+Le son se répercuta sur les murs comme un battement de cœur.
+
+— Tu vas faire ton serment ici. Comme moi. Comme ceux qui furent avant moi.
+
+Le garçon regarda l’eau noire.
+
+— Je… je ne comprends pas ce que je dois jurer.
+
+L’Ancien ne répondit pas tout de suite. Il se pencha sur le bassin, effleurant la surface du bout de ses doigts gantés. L’eau vibra.
+
+— Tu jures de te souvenir. Peu importe ce qui t’arrivera. Peu importe ce qu’on t’enlèvera. Peu importe ce qu’on t’obligera à devenir.  
+Tu jures de te souvenir de qui tu étais… avant que le monde te brise.
+
+Les mots résonnèrent, solennels, terribles.
+
+Le garçon sentit sa gorge se nouer.  
+Se souvenir ?  
+De quoi ?  
+Il n’avait rien. Ou alors…  
+Il avait tout oublié.
+
+— Je… je ne suis pas sûr de pouvoir… murmura-t-il.
+
+L’Ancien posa une main ferme derrière sa nuque, le forçant à regarder l’eau.
+
+— Ce que tu vois là, ce sont les reflets que tu n’as pas encore affrontés.
+
+L’eau s’obscurcit soudain.  
+Une silhouette apparut.  
+Impossible à distinguer.  
+Un visage flou.  
+Une voix larvée, comme un souvenir en train de mourir.
+
+> _Ne laisse pas… tout… partir…_
+
+Le garçon sentit son cœur éclater dans sa poitrine.
+
+— Qui… qui est-ce ? demanda-t-il dans un souffle.
+
+— Tu le sauras quand tu seras prêt. Ou quand ce que tu dois affronter reviendra te chercher.
+
+L’Ancien le poussa doucement vers le bassin.
+
+— Dis les mots, gamin.
+
+Le garçon serra les poings.
+
+Une part de lui voulait fuir.  
+Une autre voulait plonger dans ce bassin et disparaître avec ce reflet fantôme.
+
+Il prit enfin une inspiration tremblante.
+
+— Je… je jure… de… me souvenir.
+
+L’eau vibra.  
+Le reflet s’effaça.
+
+L’Ancien hocha la tête, grave.
+
+— Bien. Tu viens de faire le serment le plus difficile : promettre à ton futur toi qu’il n’aura pas le droit d’oublier.
+
+Il posa sa main sur le cœur du garçon — geste rare, presque tendre.
+
+— Désormais, quoi qu’il arrive… ce serment te tiendra en vie plus longtemps que ton courage.
+
+Il recula, reprenant son bâton.
+
+— À partir d’aujourd’hui, tu n’es plus seulement un gamin.  
+Tu es celui qui porte un nom que tu n’as pas encore gagné.
+
+Le garçon releva les yeux.
+
+— Quel nom… ?
+
+L’Ancien répondit, sa voix portant l’écho de quelque chose d’ancien, de sacré, de lourd :
+
+— **Celui que tu gagneras auprès de Thalmyr.**  
+— Celui qui ne se dit jamais avant d’être mérité.
+
+Le garçon sentit, pour la première fois, un frisson de fierté se mêler à sa peur.
+
+L’Ancien reprit la torche.
+
+— Viens.  
+Ce lieu ne doit plus t’entendre avant longtemps.
+
+Ils sortirent de la grotte.  
+Le vent de dehors sembla soudain plus vif, plus vivant.
+
+Le garçon se retourna une dernière fois vers l’ouverture sombre.
+
+Dans un souffle, comme un murmure porté par la pierre elle-même, il crut entendre :
+
+> _Souviens-toi…_
+
+Et pour la première fois, il jura de ne jamais trahir cette voix.
+
+Même s’il ne savait pas encore qu’un jour, ce serment serait la seule chose qui lui resterait, derrière un casque fermé.
