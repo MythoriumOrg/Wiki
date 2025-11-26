@@ -1,4 +1,4 @@
-# Chapitre 1 — **Bribes d’un passé brisé**
+# Chapitre 1 — Bribes d’un passé brisé
 
 Le froid avait une façon bien à lui de mordre, ici.  
 Ce n’était pas le froid simple de l’hiver, ni celui qui pique les doigts avant de les engourdir. C’était un froid qui s’insinuait dans les pierres, dans le bois pourri, dans les os. Un froid qui semblait se souvenir de tout ce qui avait été détruit.
@@ -585,3 +585,330 @@ Dans un souffle, comme un murmure porté par la pierre elle-même, il crut enten
 Et pour la première fois, il jura de ne jamais trahir cette voix.
 
 Même s’il ne savait pas encore qu’un jour, ce serment serait la seule chose qui lui resterait, derrière un casque fermé.
+
+# Chapitre 3 - Sous le Casque
+
+On dit que certains lieux avalent les gens lentement.  
+Que leur lumière s’éteint jour après jour, grain par grain, sans qu’ils s’en rendent compte.  
+La Citadelle des Murmures était de ceux-là.
+
+Le garçon — toujours sans nom — s’arrêta à l’entrée du plateau rocheux et leva les yeux.  
+Devant lui, la Citadelle se dressait comme une carcasse de colosse, sculptée dans une pierre trop sombre pour être naturelle. Les tours n’étaient pas droites ; elles semblaient se pencher, se contorsionner, comme si elles voulaient écouter ceux qui passaient entre elles.
+
+Le vent soufflait avec obstination, mais dans la cour intérieure, il ne produisait aucun son.  
+Juste un silence lourd.  
+Un silence qui semblait _attendre_.
+
+L’Ancien posa une main sur l’épaule du garçon.
+
+— Nous y sommes.  
+— Ne parle pas à voix haute. Ici, les mots ne t’appartiennent pas.
+
+Le garçon hocha la tête.
+
+Ils pénétrèrent dans la cour. Une dizaine d’hommes en armure noire s’entraînaient, leurs lames frappant l’air en mouvements parfaitement synchrones. Aucun ne criait. Aucun ne parlait. Leurs pas résonnaient d’un même rythme, comme si un cœur unique battait en eux.
+
+Ils étaient… terrifiants.
+
+Le garçon sentit sa gorge se serrer.  
+Pourtant, au fond de lui, quelque chose y répondait — un fil invisible, une résonance, une pulsation qui n’existait que dans la présence de ces hommes recouverts d’acier.
+
+Ils étaient comme des ombres qui avaient appris à marcher en plein jour.
+
+L’un d’eux s’arrêta. Se tourna vers lui.  
+Le casque noirci refléta vaguement son visage enfantin, déformé par la courbure du métal.  
+Le garçon eut un frisson.
+
+Puis un second homme, plus grand, plus massif, approcha de l’Ancien.
+
+— Tu reviens enfin.
+
+Sa voix était grave, profonde, comme si elle venait du fond d’une tombe.
+
+L’Ancien hocha la tête.
+
+— Je te le laisse, Vaelyr.
+
+Vaelyr.  
+Le nom claqua comme une lame tirée de son fourreau.
+
+Le colosse inclina légèrement la tête. Son armure comportait plus de gravures que les autres. Les runes sur ses épaulières semblaient vibrer, comme des cicatrices encore brûlantes.
+
+Vaelyr fixa le garçon.  
+Sans un mot, il lui fit signe d’approcher.
+
+Le garçon obéit, sentant les yeux de tous les autres Sentinelles sur lui.  
+Ou peut-être seulement leur attention. Difficile de savoir. Ces hommes semblaient sentir le monde plus qu’ils ne le voyaient.
+
+— C’est donc toi, dit Vaelyr.
+
+Ni question, ni constat.  
+Une sentence.
+
+Le garçon sentit ses mains trembler. Il voulut répondre quelque chose, mais l’Ancien posa une main sur son épaule.
+
+— À partir d’ici, tu ne me dois plus rien, dit-il.  
+— Tu n’apprendras plus de moi.  
+— Si tu veux devenir quelqu’un… c’est avec eux.
+
+Le garçon se retourna, surpris.  
+Les yeux gris de l’Ancien n’avaient plus cet éclat dur qu’il connaissait. Il y avait… une once de regret.
+
+— Ne regarde pas en arrière, gamin, murmura-t-il.  
+— Pas dans cet endroit.
+
+Puis il tourna les talons et s’éloigna, disparaissant entre deux piliers de pierre. Le garçon ne réalisa qu’après quelques secondes qu’il venait de rester totalement immobile, incapable de bouger.
+
+Vaelyr brisa le silence.
+
+— Tu as fait un serment dans la pierre ?
+
+Le garçon hocha la tête.
+
+— Bien. Alors tu resteras en vie plus longtemps que les autres.
+
+Il fit demi-tour.
+
+— Suis-moi.
+
+La Citadelle était un labyrinthe.  
+Les couloirs s’enfonçaient dans les profondeurs de la montagne. Des torches éclairaient le chemin, mais la lumière semblait toujours prise de court, comme si elle n’osait pas réellement toucher les murs.
+
+Vaelyr marchait vite, trop vite. Le garçon trottinait pour le suivre.
+
+Finalement, ils s’arrêtèrent dans une salle circulaire.  
+Sur un piédestal de pierre reposait un casque.
+
+Non.  
+Pas un casque.  
+Une prison.
+
+Le métal était noir, veiné de runes argentées. L’intérieur était tapissé d’un matériau sombre. Le visage était entièrement clos, sans ouverture visible, hormis deux fentes étroites pour les yeux.
+
+Vaelyr se tourna vers lui.
+
+— C’est là que ça commence, dit-il.
+
+Le garçon déglutit.
+
+— Je dois… l’enfiler ?
+
+Vaelyr approcha.  
+Le silence s’alourdit.
+
+— Pas encore.  
+— Avant le casque, tu dois apprendre ce que tu dois perdre.
+
+Il posa une main sur le piédestal.  
+Une vibration, presque imperceptible, émana du métal.
+
+— Regarde-le.
+
+Le garçon s’exécuta.
+
+Le casque semblait le regarder en retour.
+
+— Qu’est-ce que tu vois ? demanda Vaelyr.
+
+La question semblait innocente, mais une tension sourde s’y cachait.
+
+Le garçon hésita.
+
+— Je… je ne sais pas.
+
+— Tu as peur ?
+
+Il rougit, honteux.
+
+— Je… oui.
+
+Vaelyr hocha lentement la tête.
+
+— Bien.
+
+Le garçon releva les yeux, surpris.
+
+— Bien ? répéta-t-il.
+
+— Si tu n’avais pas peur, je t’aurais chassé.  
+Il fit glisser ses doigts sur les runes.  
+— La peur te garde vivant.  
+— Le casque t’apprendra le reste.
+
+Il le fixa droit dans les yeux.
+
+— Tu veux devenir une Sentinelle ?
+
+Le garçon sentit quelque chose se briser et se reformer dans sa poitrine.  
+Il pensa à la grotte.  
+À l’eau noire.  
+À la voix.  
+_Souviens-toi…_
+
+Il inspira profondément.
+
+— Oui.
+
+Vaelyr pencha légèrement la tête.
+
+— Alors écoute bien.  
+Il s’approcha jusqu’à ce que leurs fronts se frôlent presque.  
+— Le casque effacera ton visage.  
+— Ici, tu n’es pas une personne.  
+— Ici, tu es un rôle.
+
+Le garçon avala difficilement sa salive.
+
+— Et… et si je veux garder mon visage ?
+
+Vaelyr resta immobile.
+
+Puis il répondit, d’une voix plus basse :
+
+— Alors tu mourras.  
+— Pas par notre main.  
+— Par le monde.
+
+Il posa une main lourde sur son épaule.
+
+— Ceux qui survivent ici sont ceux qui acceptent de disparaître pour mieux revenir.
+
+Le garçon frissonna.
+
+— Mais tu n’en es pas encore là, continua Vaelyr.  
+— D’abord, tu vas apprendre à te battre.  
+— À lire les pierres.  
+— À écouter les murmures.  
+— À survivre aux nuits.
+
+Il recula.
+
+— Quand tu auras oublié que tu portais un visage avant…  
+— Alors, tu porteras ceci.
+
+Il désigna le casque.
+
+Les mois qui suivirent furent un cauchemar éveillé.
+
+Le garçon apprit à marcher sans bruit.  
+À respirer à un rythme précis.  
+À tenir une arme plus lourde que ses bras.  
+À supporter la faim.  
+À dormir en restant prêt à bondir.  
+À écouter à travers la pierre.  
+À reconnaître un danger avant qu’il n’apparaisse.
+
+Vaelyr ne criait jamais.  
+Il corrigeait.  
+Il frappait.  
+Il montrait.  
+Il attendait.
+
+Et chaque soir, le garçon revenait dans sa paillasse, les muscles déchirés, les paumes en sang.
+
+Mais chaque matin, il se relevait.
+
+Plus fort.  
+Plus silencieux.  
+Plus dur.
+
+Peu à peu, les autres aspirants commencèrent à le regarder autrement.  
+Pas comme un gamin.  
+Comme un survivant.
+
+Puis vint la nuit où tout changea.
+
+Une torche brûlait faiblement dans la salle du casque.  
+Vaelyr était là, immobile comme une statue.
+
+— Approche, dit-il.
+
+Le garçon entra.  
+Il n’était plus vraiment un garçon, mais pas encore un homme.  
+Il avait gagné de la force, de la taille, mais aussi une dureté dans le regard qui n’existait pas avant.
+
+Vaelyr désigna le casque.
+
+— Aujourd’hui, tu l’essaies.
+
+Un frisson parcourut le dos du jeune aspirant.
+
+— Dois-je… y entrer ?
+
+— Non.  
+Vaelyr se pencha légèrement vers lui.  
+— Tu dois accepter ce que tu vas perdre.
+
+Le jeune aspirant sentit sa gorge se serrer.
+
+— Qu… qu’est-ce que je perds ?
+
+Vaelyr répondit d’une voix calme, presque douce.
+
+— Toi.
+
+Il prit le casque, le souleva, le tourna vers lui.
+
+— Quand tu le porteras, personne ne prononcera ton nom.  
+— Personne ne verra ton visage.  
+— Personne ne saura qui tu étais, ni qui tu aurais pu devenir.
+
+Il marqua une pause.
+
+— Et si tu veux que ce serment tienne… toi non plus, tu n’auras pas le droit de t’en souvenir.
+
+Un silence lourd tomba.
+
+Le jeune aspirant sentit son cœur battre trop fort, trop vite.
+
+— Et… si je refuse ?
+
+Vaelyr le regarda un long moment.
+
+— Alors tu quittes la Citadelle.  
+— Et le monde te dévorera vivant.
+
+Il posa doucement le casque entre les mains de l’aspirant.
+
+Le métal était froid.  
+Trop froid.
+
+— Mets-le.
+
+Le garçon ferma les yeux.  
+Il pensa à la voix dans l’eau noire.  
+À l’Ancien.  
+À la promesse.
+
+« Je jure de me souvenir. »
+
+Sa main trembla.
+
+— Mets-le, répéta Vaelyr.
+
+Le jeune aspirant leva le casque.
+
+Le métal glissa contre sa peau.  
+Sa vision se rétrécit.  
+Le monde devint sombre.
+
+Il inspira.  
+Et dans le noir, tout devint silencieux.
+
+Parfaitement silencieux.
+
+Puis une pensée, une seule, se forma dans son esprit.  
+Une pensée qu’il ne reconnut pas comme étant la sienne :
+
+> _Souviens-toi de ce que tu dois oublier._
+
+Quand il rouvrit les yeux, les fentes du casque reflétèrent les flammes de la torche.
+
+Vaelyr hocha la tête.
+
+— Bienvenue, Sentinelle.
+
+Et pour la première fois, le garçon comprit ce que cela signifiait :  
+être quelqu’un que personne ne verrait plus jamais.
+
+# Chapitre 4 — Les Traces du Passé
