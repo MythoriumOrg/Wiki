@@ -1,4 +1,4 @@
-# Chapitre 1 — Bribes d’un passé brisé
+# Chapitre 1 - Bribes d’un passé brisé
 
 Le froid avait une façon bien à lui de mordre, ici.  
 Ce n’était pas le froid simple de l’hiver, ni celui qui pique les doigts avant de les engourdir. C’était un froid qui s’insinuait dans les pierres, dans le bois pourri, dans les os. Un froid qui semblait se souvenir de tout ce qui avait été détruit.
@@ -391,7 +391,7 @@ Ce n’est que bien plus tard, des années plus tard, quand il porterait un casq
 Mais pour l’instant, il n’était qu’un gamin dans des ruines gelées.  
 Un gamin qui ne savait pas encore que son visage, un jour, importerait au point de devoir disparaître.
 
-# Chapitre 2 — La Promesse Sacrée
+# Chapitre 2 - La Promesse Sacrée
 
 Le matin s’était levé sans couleur.
 
@@ -911,4 +911,5 @@ Vaelyr hocha la tête.
 Et pour la première fois, le garçon comprit ce que cela signifiait :  
 être quelqu’un que personne ne verrait plus jamais.
 
-# Chapitre 4 — Les Traces du Passé
+# Chapitre 4 - Les Traces du Passé
+
