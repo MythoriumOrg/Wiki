@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\stbnb\\Documents\\dev\\Mythorium\\Wiki Export",
+    "exportPath": "C:\\Users\\stbnb\\Documents\\dev\\Mythorium\\ExportWiki",
     "filesToExport": [
       "all"
     ],
@@ -188,8 +188,8 @@
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
-      "siteUrl": "",
-      "authorName": ""
+      "siteUrl": "https://wiki.mythorium.ebasson.fr",
+      "authorName": "ebasson"
     },
     "linkPreviewOptions": {
       "featureId": "link-preview",
@@ -213,7 +213,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "Wiki",
+    "siteName": "MythoriumWiki",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],
@@ -221,7 +221,7 @@
     "autoDisposeWebpages": true
   },
   "logLevel": "warning",
-  "titleProperty": "title",
+  "titleProperty": "Mythorium Wiki",
   "rssDateProperty": "date",
   "onlyExportModified": true,
   "deleteOldFiles": true,
