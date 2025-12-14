@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Humains.md",
+                "file": "Personnages/Voyageur de la route du nord.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Humains"
+              "title": "Voyageur de la route du nord"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Humains.md",
+                "file": "Personnages/Voyageur de la route du nord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Humains"
+              "title": "Backlinks for Voyageur de la route du nord"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Humains.md",
+                "file": "Personnages/Voyageur de la route du nord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Humains"
+              "title": "Outgoing links from Voyageur de la route du nord"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Humains.md",
+                "file": "Personnages/Voyageur de la route du nord.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humains"
+              "title": "Outline of Voyageur de la route du nord"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +180,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "9e8dedcb382f46e7",
   "lastOpenFiles": [
     "Races/Humains.md",
+    "Lieux/Routes/Route du Nord.md",
+    "Lieux/Magasins/La Forge.md",
+    "Personnages/Apprenti de la Forge.md",
+    "Personnages/Mentor de la Forge.md",
+    "Personnages/Voyageur de la route du nord.md",
+    "Lieux/Magasins",
+    "Lieux/Routes",
+    "L’Apprenti de la Forge.md",
     "Histoires",
     "Lieux",
     "Personnages",
