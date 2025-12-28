@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Races/Humains.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Humains"
             }
           },
           {
@@ -196,13 +197,13 @@
   },
   "active": "9e8dedcb382f46e7",
   "lastOpenFiles": [
+    "Races/Humains.md",
     "noExport/ideas/ideas - La Forge.md",
     "Lieux/Magasins/La Forge.md",
     "noExport/ideas/Untitled",
     "noExport/ideas",
     "noExport",
     "Personnages/Voyageur de la route du nord.md",
-    "Races/Humains.md",
     "Lieux/Routes/Route du Nord.md",
     "Personnages/Apprenti de la Forge.md",
     "Personnages/Mentor de la Forge.md",
