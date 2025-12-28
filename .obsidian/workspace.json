@@ -11,14 +11,14 @@
             "id": "9e8dedcb382f46e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Races/Humains.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Humains"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -156,17 +156,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Humains.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humains"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "67f3f2e34e551745",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,17 +190,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9e8dedcb382f46e7",
   "lastOpenFiles": [
-    "Lieux/Routes/Route du Nord.md",
+    "noExport/ideas/ideas - La Forge.md",
     "Lieux/Magasins/La Forge.md",
-    "Personnages/Apprenti de la Forge.md",
-    "Personnages/Mentor de la Forge.md",
+    "noExport/ideas/Untitled",
+    "noExport/ideas",
+    "noExport",
     "Personnages/Voyageur de la route du nord.md",
     "Races/Humains.md",
+    "Lieux/Routes/Route du Nord.md",
+    "Personnages/Apprenti de la Forge.md",
+    "Personnages/Mentor de la Forge.md",
     "index.md",
     "Lieux/Magasins",
     "Lieux/Routes",
