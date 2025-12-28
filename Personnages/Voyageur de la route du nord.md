@@ -1,6 +1,6 @@
 ## Présentation
 
-Le _Voyageur de la Route du Nord_ est un homme de passage aperçu à [[La Forge]] durant l’absence du [[Mentor de la Forge]]. Il intervient brièvement au cours du *Troisième Jour*, où il fait une remarque laissant entendre qu’il connaît la situation du mentor.
+Le _Voyageur de la Route du Nord_ est un homme de passage aperçu à [[La Forge]] durant l’absence du [[Necad Inorux]]. Il intervient brièvement au cours du *Troisième Jour*, où il fait une remarque laissant entendre qu’il connaît la situation du mentor.
 
 ---
 

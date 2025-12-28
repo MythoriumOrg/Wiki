@@ -1,6 +1,6 @@
 ## Présentation
 
-Le *Mentor de la Forge* est un forgeron expérimenté exerçant à [[La Forge]], située en lisière de la ville. Il est le maître et formateur de [[Apprenti de la Forge]], à qui il a transmis les bases du métier ainsi qu’une conception patiente et silencieuse du travail du métal.
+Le *Mentor de la Forge* est un forgeron expérimenté exerçant à [[La Forge]], située en lisière de la ville. Il est le maître et formateur de [[Aren Inar]], à qui il a transmis les bases du métier ainsi qu’une conception patiente et silencieuse du travail du métal.
 
 ---
 
